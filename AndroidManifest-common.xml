@@ -132,7 +132,6 @@
 
         <!--
         The content provider for exposing various launcher grid options.
-        TODO: Add proper permissions
         -->
         <provider
             android:name="com.android.launcher3.graphics.GridCustomizationsProvider"
